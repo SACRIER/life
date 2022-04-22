@@ -36,4 +36,16 @@ body {
     font-family: 'Permanent Marker', cursive;
     font-size: 20px;
 }
+#content-text {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: rgb(26, 19, 19);
+    margin-left: -11px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
+    margin-top: -3px;
+}
+
 
