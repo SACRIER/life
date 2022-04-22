@@ -1,0 +1,39 @@
+body {
+    background-image: url('/img/back.gif');
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+#vida {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 550px;
+    align-items: center;
+  
+}
+
+#tittle {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: rgb(230, 174, 174);
+    margin-left: -11px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+}
+
+#content {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: rgb(26, 19, 19);
+    margin-left: -11px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
+}
+
